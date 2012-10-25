@@ -1,0 +1,4 @@
+# This setting tells git to normalize the files specified on commit, and
+# always convert them to CRLF on checkout. You should use this for files
+# that must retain CRLF endings, even on OSX or Linux.
+*     text=auto
